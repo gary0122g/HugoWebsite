@@ -1,0 +1,29 @@
+banner:
+        title: Hi! I'm Gary
+social:
+  twitter: ""
+  linkedin: https://www.linkedin.com/in/chia-wei-chang-6a0773166/ 
+  bitbucket: ""
+  github: gary0122g
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  gmail: gary0122g@gmail.com
+  hotmail: ""
+  telegram: ""
+  whatsapp: ""
+
+about:
+  enable: true
+  content: 2nd Year Durham Computer Science Student
+  button:
+    btnText: Find out more
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    - title: JavaScript
+      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      description: Details coming soon, contact me if you want to know more
+
+
